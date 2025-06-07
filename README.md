@@ -25,16 +25,10 @@ USE AT YOUR OWN RISK!
 
 # Description
 
-    * Floppy disk side switch.
-    * Standard capacity is 173K per diskette side.
-    * The ability to format a floppy disk to 720KB using the appropriate tools.
-    * READY signal enforcement for drives that do not have it.
-    * Connecting the interface turns ZX Spectrum + 2A into ZX Spectrum +3
-    * Compatible fdd controller chips: NEC UPD765 (D765AC-2), Zilog Z0765A08PSC, UMC UM8272A
-    * **Use flat ribbon cable without twist. One drive must be wired as DS0 and second as DS1.**
-
-
-
-
-
-
+    - Floppy disk side switch.
+    - Standard capacity is 173K per diskette side.
+    - The ability to format a floppy disk to 720KB using the appropriate tools.
+    - READY signal enforcement for drives that do not have it.
+    - Connecting the interface turns ZX Spectrum + 2A into ZX Spectrum +3
+    - Compatible fdd controller chips: NEC UPD765 (D765AC-2), Zilog Z0765A08PSC, UMC UM8272A
+    - **Use flat ribbon cable without twist. One drive must be wired as DS0 and second as DS1.**
