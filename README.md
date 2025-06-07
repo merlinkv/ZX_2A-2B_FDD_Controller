@@ -35,7 +35,7 @@ USE IT AT YOUR OWN RISK!
 - Added RESET button.
 - Added Power LED.
 - Added PAUSE switch.
-- Added Kempston Joystick Interface.
+- Added Kempston Joystick Interface. Can be disabled by switch.
 - PCB was made in two versions: With and without back EDGE connector.
 
 # Interactive BOM's
