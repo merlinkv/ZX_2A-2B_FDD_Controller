@@ -27,8 +27,13 @@ USE AT YOUR OWN RISK!
 
 - Floppy disk side switch.
 - You can use 173K or 720K disquettes.
-- READY signalenforcement for drives that not have it.
+- READY signal enforcement for drives that not have it.
 - Connecting the interface turn ZX Spectrum +2A/+2B into Zx Pectrum +3
 - Compatible with FDD controller chips: NEC UPD765 (D765AC-2), Zilog Z0765A08PSC, UMC UM8272A).
-- **Use flat ribbon cable without twist. One drive must be set as DS0 and second as DS1**
+- **Use flat ribbon cable without twist. One drive must be set as DS0 and second as DS1.**
+- Added RESET button.
+- Added Power LED.
+- Added PAUSE switch.
+- Added Kempston Joystick Interface.
+- PCB was made in two versions: With and without back EDGE connector.
 
