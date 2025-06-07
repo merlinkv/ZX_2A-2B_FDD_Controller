@@ -21,10 +21,11 @@ This projedct is an enhanced version of the controller designed by @konkotgit (h
 # Note
 
 I take no responsibiltiy for any damage to any equipment that results from the use of this board.
-USE AT YOUR OWN RISK!
+USE IT AT YOUR OWN RISK!
 
 # Description
 
+- Floppy disk controller for ZX Spectrum +2A/+2B computers
 - Floppy disk side switch.
 - You can use 173K or 720K disquettes.
 - READY signal enforcement for drives that not have it.
@@ -36,4 +37,6 @@ USE AT YOUR OWN RISK!
 - Added PAUSE switch.
 - Added Kempston Joystick Interface.
 - PCB was made in two versions: With and without back EDGE connector.
+
+
 
