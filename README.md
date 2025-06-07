@@ -18,6 +18,13 @@ This projedct is an enhanced version of the controller designed by @konkotgit (h
 
   - If you wish to sell small quantities of this interface in a physical or online store, you must first contact me to request permission. The ban on selling it on eBay or auction sites remains in effect.
 
+# Note
+
+I take no responsibiltiy for any damage to any equipment that results from the use of this board.
+USE AT YOUR OWN RISK!
+
+
+
 
 
 
