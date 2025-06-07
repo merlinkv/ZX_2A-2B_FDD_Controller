@@ -5,3 +5,7 @@
 * If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 * You may not use the material for commercial purposes.
 * You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+Original Design by @konkotgit (https://github.com/konkotgit/PLUS-2A-FDC-LIGHT)
+
+
