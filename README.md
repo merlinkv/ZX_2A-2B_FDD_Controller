@@ -38,5 +38,18 @@ USE IT AT YOUR OWN RISK!
 - Added Kempston Joystick Interface.
 - PCB was made in two versions: With and without back EDGE connector.
 
+# Interactive BOM's
+
+- [ZX_FDD_Controller_Kempston_1_2](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_2A-2B_FDD_Controller/blob/main/ZX_FDD_Controller_Kempston_1_2.html)
+- [ZX_FDD_Controller_Kempston_1_2D](https://htmlpreview.github.io/?https://github.com/merlinkv/ZX_2A-2B_FDD_Controller/blob/main/ZX_FDD_Controller_Kempston_1_2D.html)
+
+# Images
+
+![Version 1.2 Front](https://github.com/merlinkv/ZX_2A-2B_FDD_Controller/blob/main/ZX_FDD_Controller_Kempston_1_2_Front.jpg)
+![Version 1.2 Back](https://github.com/merlinkv/ZX_2A-2B_FDD_Controller/blob/main/ZX_FDD_Controller_Kempston_1_2_Back.jpg)
+![Version 1.2D Front](https://github.com/merlinkv/ZX_2A-2B_FDD_Controller/blob/main/ZX_FDD_Controller_Kempston_1_2D_Front.jpg)
+![Version 1.2D Back](https://github.com/merlinkv/ZX_2A-2B_FDD_Controller/blob/main/ZX_FDD_Controller_Kempston_1_2D_Back.jpg)
+
+
 
 
