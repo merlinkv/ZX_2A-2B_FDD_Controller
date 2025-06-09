@@ -6,7 +6,7 @@
 * You may not use the material for commercial purposes.
 * You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-This projedct is an enhanced version of the controller designed by @konkotgit (https://github.com/konkotgit/PLUS-2A-FDC-LIGHT)
+This project is an enhanced version of the controller designed by @konkotgit (https://github.com/konkotgit/PLUS-2A-FDC-LIGHT)
 
 # ATTENTION
 
